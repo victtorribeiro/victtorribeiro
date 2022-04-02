@@ -4,8 +4,8 @@
 
 
 - 🔭 Atualmente estou trabalhando como Gerente de Redes no provedor de internet Fibernet.
-- 🌱 Atualmente estou estudando Spring boot e React js.
-- 👯 Estou procurando trabalhar como desenvolvedor Back end.
+- 🌱 Estou estudando Spring boot e React js.
+- 👯 Procurando trabalhar como desenvolvedor Back end.
 
 
 <div>
