@@ -1,5 +1,5 @@
 ## Olá, me chamo Victor Ribeiro! 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub 
 
 
 
