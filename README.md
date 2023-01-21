@@ -4,11 +4,10 @@
 
 
 
-- 🔭 - Atualmente estou trabalhando como Gerente de Redes no provedor de internet Fibernet.
+- 🔭 - Atualmente estou trabalhando como desenvolvedor back-end na empresa AYESA.
 
-- 🌱 - Estou estudando Spring boot e React js.
+- 🌱 - Estou estudando Spring boot e Microserviços
 
-- 👯 - Procurando trabalhar como desenvolvedor Back end.
 
 
 <div>
