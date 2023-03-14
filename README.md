@@ -4,7 +4,7 @@
 
 
 
-- 🔭 - Atualmente estou trabalhando como desenvolvedor back-end na empresa AYESA.
+- 🔭 - Atualmente estou trabalhando como desenvolvedor back-end na empresa SONDA.
 
 - 🌱 - Estou estudando Spring boot e Microserviços
 
